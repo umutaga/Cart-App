@@ -1,0 +1,14 @@
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Infrastructure.Data\bin\Debug\netcoreapp2.1\CartApp.Infrastructure.Data.deps.json
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Infrastructure.Data\bin\Debug\netcoreapp2.1\CartApp.Infrastructure.Data.dll
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Infrastructure.Data\obj\Debug\netcoreapp2.1\CartApp.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Infrastructure.Data\obj\Debug\netcoreapp2.1\CartApp.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Infrastructure.Data\obj\Debug\netcoreapp2.1\CartApp.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Infrastructure.Data\obj\Debug\netcoreapp2.1\CartApp.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Infrastructure.Data\bin\Debug\netcoreapp2.1\CartApp.Core.dll
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Infrastructure.Data\bin\Debug\netcoreapp2.1\CartApp.Core.Entity.dll
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Infrastructure.Data\bin\Debug\netcoreapp2.1\CartApp.Core.Entity.pdb
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Infrastructure.Data\bin\Debug\netcoreapp2.1\CartApp.Infrastructure.Data.pdb
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Infrastructure.Data\bin\Debug\netcoreapp2.1\CartApp.Core.pdb
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Infrastructure.Data\obj\Debug\netcoreapp2.1\CartApp.Infrastructure.Data.csproj.CopyComplete
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Infrastructure.Data\obj\Debug\netcoreapp2.1\CartApp.Infrastructure.Data.dll
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Infrastructure.Data\obj\Debug\netcoreapp2.1\CartApp.Infrastructure.Data.pdb

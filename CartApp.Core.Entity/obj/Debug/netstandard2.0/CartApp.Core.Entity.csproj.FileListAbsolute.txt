@@ -1,0 +1,9 @@
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core.Entity\bin\Debug\netstandard2.0\CartApp.Core.Entity.deps.json
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core.Entity\bin\Debug\netstandard2.0\CartApp.Core.Entity.dll
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core.Entity\obj\Debug\netstandard2.0\CartApp.Core.Entity.csproj.CoreCompileInputs.cache
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core.Entity\obj\Debug\netstandard2.0\CartApp.Core.Entity.AssemblyInfoInputs.cache
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core.Entity\obj\Debug\netstandard2.0\CartApp.Core.Entity.AssemblyInfo.cs
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core.Entity\bin\Debug\netstandard2.0\CartApp.Core.Entity.pdb
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core.Entity\obj\Debug\netstandard2.0\CartApp.Core.Entity.dll
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core.Entity\obj\Debug\netstandard2.0\CartApp.Core.Entity.pdb
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core.Entity\obj\Debug\netstandard2.0\CartApp.Core.Entity.csprojAssemblyReference.cache

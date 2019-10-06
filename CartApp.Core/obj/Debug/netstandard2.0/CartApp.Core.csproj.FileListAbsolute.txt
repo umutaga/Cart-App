@@ -1,0 +1,12 @@
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core\obj\Debug\netstandard2.0\CartApp.Core.csprojAssemblyReference.cache
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core\obj\Debug\netstandard2.0\CartApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core\obj\Debug\netstandard2.0\CartApp.Core.AssemblyInfoInputs.cache
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core\obj\Debug\netstandard2.0\CartApp.Core.AssemblyInfo.cs
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core\bin\Debug\netstandard2.0\CartApp.Core.deps.json
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core\bin\Debug\netstandard2.0\CartApp.Core.dll
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core\bin\Debug\netstandard2.0\CartApp.Core.pdb
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core\bin\Debug\netstandard2.0\CartApp.Core.Entity.dll
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core\bin\Debug\netstandard2.0\CartApp.Core.Entity.pdb
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core\obj\Debug\netstandard2.0\CartApp.Core.csproj.CopyComplete
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core\obj\Debug\netstandard2.0\CartApp.Core.dll
+C:\Users\RemPeople\Desktop\CartApp\CartApp.Core\obj\Debug\netstandard2.0\CartApp.Core.pdb

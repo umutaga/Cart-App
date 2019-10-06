@@ -1,0 +1,2 @@
+Token almak için gereken servis : /api/Token
+Swagger Token Authentication Örneği =>   Bearer {token}
